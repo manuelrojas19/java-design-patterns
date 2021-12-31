@@ -1,0 +1,11 @@
+com/manuelr/jdp/prototype/cloneable/Person$PersonBuilder.class
+com/manuelr/jdp/prototype/cloneable/App.class
+com/manuelr/jdp/prototype/copyctor/Address$AddressBuilder.class
+com/manuelr/jdp/prototype/App.class
+com/manuelr/jdp/prototype/copyctor/App.class
+com/manuelr/jdp/prototype/cloneable/Person.class
+com/manuelr/jdp/prototype/cloneable/Address$AddressBuilder.class
+com/manuelr/jdp/prototype/copyctor/Employee.class
+com/manuelr/jdp/prototype/copyctor/Employee$EmployeeBuilder.class
+com/manuelr/jdp/prototype/copyctor/Address.class
+com/manuelr/jdp/prototype/cloneable/Address.class
